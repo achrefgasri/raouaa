@@ -1,0 +1,38 @@
+.back {
+  background-image: url("../../assets/companyy.jpg") !important;
+  background-size: cover !important;
+  display:inline-table;
+}
+
+.contact img {
+  width: 120px !important;
+  display: flex;
+}
+.contactt img {
+  width: 120px !important;
+}
+.attr {
+  text-decoration: none !important;
+  font-size: 50px !important;
+  font-family: "Comic sans Ms", cursive, sans-serif !important;
+  font-style: italic !important;
+  color: #e3caea !important;
+  animation: none;
+
+}
+.para {
+  text-decoration: none !important;
+  font-size: 50px !important;
+  font-family: "Comic sans Ms", cursive, sans-serif !important;
+  font-style: italic !important;
+  color: rgb(16, 4, 4) !important;
+  animation: none;
+  background-color: rgb(215, 187, 242);
+  
+}
+
+  
+ 
+ 
+
+
